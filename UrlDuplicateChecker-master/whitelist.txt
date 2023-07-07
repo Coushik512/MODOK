@@ -2,4 +2,5 @@ https://www.google.com/
 https://github.com/pratheepr/UrlDuplicateChecker
 https://edition.cnn.com/
 https://www.ndtv.com/
-chrome://newtab/
+https://www.youtube.com/ 
+
