@@ -1,3 +1,5 @@
+
+//whitelist url
 // URL pattern array to whitelist
 let whitelist = [];
 
